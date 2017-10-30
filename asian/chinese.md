@@ -5,4 +5,5 @@ Select a restaurant:
 ## [Taste of China](http://www.brooklyntasteofchina.com/)
 ---
 [Back to Asian](../asian)
-Start Over
+[Start Over](../home.md)
+
